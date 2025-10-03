@@ -8,7 +8,11 @@ This repository contains selected projects showcasing my skills in **Python, Dat
 ## 📂 Projects  
 
 1. 🛒 [Retail Sales Analysis](./Project1_Retail_Sales)  
-   - Analyzed sales data, calculated revenues, and visualized trends  
+   - Analyzed sales data, calculated revenues, and visualized trends
+   - # 🛒 Project 1: Retail Sales Analysis  
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/data-science-portfolio/blob/main/Project1_Retail_Sales/retail_sales.ipynb)
+
 
 2. 🚢 [Titanic EDA](./Project2_Titanic_EDA)  
    - Explored Titanic dataset, survival rates by gender & class  
